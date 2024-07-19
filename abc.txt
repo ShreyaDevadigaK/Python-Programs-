@@ -1,0 +1,5 @@
+CO 1. Demonstrate proficiency in handling of loops and creation of functions. 
+CO 2. Identify the methods to create and manipulate lists, tuples and dictionaries. 
+CO 3. Discover the commonly used operations involving regular expressions and file system. 
+CO 4. Interpret the concepts of Object-Oriented Programming as used in Python. 
+CO 5. Determine the need for scraping websites and working with PDF, JSON and other file formats.
