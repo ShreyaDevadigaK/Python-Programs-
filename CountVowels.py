@@ -1,4 +1,4 @@
-str = "Shreya"
+str = "User"
 count = 0
 vowel = set("aeiouAEIOU")
 print("String :",str)

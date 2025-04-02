@@ -1,6 +1,6 @@
 import openpyxl
 
-path = "C:/Users/dcshr/OneDrive/Desktop/4AL21CS144/gfg.xlsx"
+path = "C:/Users/dcshr/OneDrive/Desktop/4AL21CS144/gfg.xlsx" #your location path
 wb_obj = openpyxl.load_workbook(path)
 # Get workbook active sheet object
 # from the active attribute
@@ -50,7 +50,7 @@ c4.value = "RAI"
 # or its sheets and cells, the spreadsheet
 # file will not be saved until you call
 # the save() workbook method.
-wb.save("C:/Users/dcshr/OneDrive/Desktop/4AL21CS144/gfg.xlsx")
+wb.save("C:/Users/dcshr/OneDrive/Desktop/4AL21CS144/gfg.xlsx") #your location path
 
 
 
